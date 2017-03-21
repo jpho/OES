@@ -1,0 +1,40 @@
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\bin\Debug\EntityFramework.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\bin\Debug\EntityFramework.xml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\bin\Debug\EntityFramework.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\bin\Debug\EntityFramework.xml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.xml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll.config
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\OrderEntryEngine.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\OrderEntryEngine.pdb
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.xml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\obj\Debug\OrderEntryEngine.csprojResolveAssemblyReference.cache
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\obj\Debug\OrderEntryEngine.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntryEngine\obj\Debug\OrderEntryEngine.pdb

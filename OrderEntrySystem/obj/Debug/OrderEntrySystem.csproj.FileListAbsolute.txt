@@ -1,0 +1,246 @@
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\EntityFramework.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\EntityFramework.xml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\App.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\App.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+C:\Users\andre\Documents\Git\10-152-314-advanced-.net-programming\Source\Assignments\Order Entry System\2.1\ADN OrderEntrySystem 2.1 End\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\EntityFramework.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\EntityFramework.xml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\App.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\App.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+G:\drop box\Dropbox\SPRING 2017\ADVANCED .NET\LP2\ADN OrderEntrySystem 2.2\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.xml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\App.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\App.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+C:\Users\LOVESdiaLAP\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe.config
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntrySystem.exe
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntrySystem.pdb
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.pdb
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryDataAccess.dll.config
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryEngine.pdb
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\OrderEntryEngine.dll.config
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.xml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.csprojResolveAssemblyReference.cache
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\AddCategoryView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderLineView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CategoryView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\PagingView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\LocationView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ReportView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\App.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\EntityView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\AddCategoryView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\NumberOfItemsSelectedView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderLineView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CustomerView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CategoryView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\PagingView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ProductView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\LocationView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MainWindow.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiProductView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiLocationView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ReportView.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\WorkspaceWindow.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\App.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.cache
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem_MarkupCompile.lref
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\EntityView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderLineView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCategoryView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\CustomerView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\ProductView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MainWindow.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiCustomerView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiProductView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiLocationView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\MultiOrderView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\OrderView.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\Views\SharedResources.baml
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.g.resources
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.Properties.Resources.resources
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.csproj.GenerateResource.Cache
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.exe
+C:\Users\LOVESdia\Dropbox\SPRING 2017\ADVANCED .NET\ADN OrderEntrySystem 2.3\OrderEntrySystem\obj\Debug\OrderEntrySystem.pdb
